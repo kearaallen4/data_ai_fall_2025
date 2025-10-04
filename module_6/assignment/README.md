@@ -42,7 +42,7 @@ This will give you a preview of 10 rows so you can get to know what the data and
 Use Deep Note's built-in SQL editor to explore the dataset and answer the following questions:
 
 1. **How many applications has Tech Moms received?** 
-   - [ ]  Write a query to count the total number of applications. (as of the end of July)
+   - [x]  Write a query to count the total number of applications. (as of the end of July)
    - Example SQL:
      
     ```
@@ -53,7 +53,7 @@ Use Deep Note's built-in SQL editor to explore the dataset and answer the follow
     ```
 
 2. **How many applications were assigned a cohort?** 
-   - [ ] Determine how many applicants were successfully assigned to a cohort. (as of the end of July)
+   - [x] Determine how many applicants were successfully assigned to a cohort. (as of the end of July)
    - Example SQL:
    
    ```
